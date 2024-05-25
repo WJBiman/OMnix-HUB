@@ -1,5 +1,5 @@
 # `In preparation for 2.0, this repository will be cleared of all 1.0 related releases and code`
-<p align="center"><img src="https://media.discordapp.net/attachments/1034677522383765578/1035262655058935858/Asset_5.png" width="128" /></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1065215485597208617/1243983248606888117/Netch.png?ex=6653752e&is=665223ae&hm=65ca4de67dc41ee8d55950af3ef3be1196e41b9e4aaf60551c00251d8a2bdeff&" width="128" /></p>
 
 <div align="center">
 
@@ -32,7 +32,7 @@ A simple proxy client
 - .NET 6.0 x64
 
 ## Sponsor
-<a href="https://discord.gg/4RF5ZJa2bF"><img src="https://media.discordapp.net/attachments/1034677522383765578/1035263157159067708/C3.jpg" alt="OMnix HUB" width="200"/></a>
+<a href="https://discord.gg/69X4qr2G"><img src="https://cdn.discordapp.com/attachments/1065215485597208617/1243983248606888117/Netch.png?ex=6653752e&is=665223ae&hm=65ca4de67dc41ee8d55950af3ef3be1196e41b9e4aaf60551c00251d8a2bdeff&" alt="OMnix HUB" width="200"/></a>
 
 ## License
 Netch is licensed under the [GPLv3](https://raw.githubusercontent.com/netchx/netch/main/LICENSE) license
