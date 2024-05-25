@@ -42,7 +42,7 @@ public class Updater
             throw new MessageException(i18N.Translate("Update file top-level directory not exist"));
 
         // {_tempDirectory}/extract/Netch/Netch.exe
-        var updateMainProgramFilePath = Path.Combine(updateDirectory, "Netch.exe");
+        var updateMainProgramFilePath = Path.Combine(updateDirectory, "OMnix HUB.exe");
         if (!File.Exists(updateMainProgramFilePath))
             throw new MessageException(i18N.Translate($"Update file main program not exist"));
 
